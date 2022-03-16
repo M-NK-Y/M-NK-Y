@@ -5,11 +5,10 @@ Here's how I've been tracking:
 <!--START_SECTION:waka-->
 
 ```text
-Python     17 hrs 53 mins  ██████████████████████▒░░   89.32 %
-JSON       1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-textmate   39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Go         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python       16 hrs 17 mins  ██████████████████████░░░   88.63 %
+JSON         1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+textmate     36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
