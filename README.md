@@ -5,12 +5,12 @@ Here's how I've been tracking:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       4 hrs 27 mins   █████████████░░░░░░░░░░░░   52.19 %
-Python           3 hrs 18 mins   █████████▓░░░░░░░░░░░░░░░   38.76 %
-JSON             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Shell Script     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Markdown         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-CSV/TSV          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Python           4 hrs 31 mins   ████████████░░░░░░░░░░░░░   48.12 %
+JavaScript       4 hrs 10 mins   ███████████░░░░░░░░░░░░░░   44.50 %
+Shell Script     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+JSON             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Markdown         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+CSV/TSV          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
