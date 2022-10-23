@@ -5,10 +5,10 @@ Here's how I've been tracking:
 <!--START_SECTION:waka-->
 
 ```text
-Python       12 hrs 36 mins  ███████████▒░░░░░░░░░░░░░   45.13 %
-Svelte       11 hrs 7 mins   ██████████░░░░░░░░░░░░░░░   39.80 %
-JavaScript   4 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Svelte       17 hrs 35 mins  ████████████░░░░░░░░░░░░░   48.29 %
+Python       12 hrs 36 mins  ████████▓░░░░░░░░░░░░░░░░   34.60 %
+JavaScript   6 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
+Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
