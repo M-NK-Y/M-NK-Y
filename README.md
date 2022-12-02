@@ -5,12 +5,12 @@ Here's how I've been tracking:
 <!--START_SECTION:waka-->
 
 ```text
-Svelte           14 hrs 51 mins  ██████████░░░░░░░░░░░░░░░   39.56 %
-Python           10 hrs 34 mins  ███████░░░░░░░░░░░░░░░░░░   28.15 %
-JavaScript       7 hrs 12 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.20 %
-JSON             1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-Rust             1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Markdown         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Svelte           12 hrs 38 mins  █████████░░░░░░░░░░░░░░░░   35.82 %
+Python           11 hrs 24 mins  ████████░░░░░░░░░░░░░░░░░   32.34 %
+JavaScript       6 hrs 16 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.79 %
+JSON             1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Rust             1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Markdown         55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
 <!--END_SECTION:waka-->
