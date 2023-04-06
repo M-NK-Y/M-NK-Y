@@ -5,11 +5,12 @@ Here's how I've been tracking:
 <!--START_SECTION:waka-->
 
 ```text
-Component Pascal   5 hrs 22 mins   ███████████▒░░░░░░░░░░░░░   45.48 %
-Python             3 hrs 45 mins   ████████░░░░░░░░░░░░░░░░░   31.91 %
-JavaScript         1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
-JSON               23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Other              21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Python             5 hrs 23 mins   ███████████████▒░░░░░░░░░   61.43 %
+Component Pascal   1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+HTML               57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+JavaScript         53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
+JSON               13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Text               11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
