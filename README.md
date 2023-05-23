@@ -5,7 +5,7 @@ Here's how I've been tracking:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   26 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
