@@ -5,7 +5,8 @@ Here's how I've been tracking:
 <!--START_SECTION:waka-->
 
 ```text
-Python   26 mins         █████████████████████████   100.00 %
+Python       34 mins         ███████████████████▒░░░░░   77.59 %
+JavaScript   9 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.41 %
 ```
 
 <!--END_SECTION:waka-->
