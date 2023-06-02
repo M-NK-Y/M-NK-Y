@@ -4,7 +4,7 @@ Sometimes breaking and entering, but always a beginner. ❤️
 Here's how I've been tracking:
 <!--START_SECTION:waka-->
 
-```text
+```txt
 JavaScript   12 hrs 18 mins  ████████████████████████▒   96.76 %
 Svelte       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 Python       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
