@@ -5,11 +5,11 @@ Here's how I've been tracking:
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte           9 hrs 42 mins   ███████████░░░░░░░░░░░░░░   43.71 %
-Python           9 hrs 30 mins   ██████████▓░░░░░░░░░░░░░░   42.77 %
-Prisma           2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-CSV/TSV          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-TypeScript       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Svelte           11 hrs 31 mins  █████████████████▒░░░░░░░   68.71 %
+Python           2 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
+JavaScript       1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
+Prisma           37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+HTML             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
