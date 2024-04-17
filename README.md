@@ -5,11 +5,11 @@ Here's how I've been tracking:
 <!--START_SECTION:waka-->
 
 ```txt
-Python         6 hrs 39 mins   ████████████████░░░░░░░░░   63.92 %
-JavaScript     2 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.10 %
-HTML           44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-Text           14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Other          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Python         6 hrs           █████████████░░░░░░░░░░░░   52.35 %
+JavaScript     2 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
+Bash           1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+HTML           44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+Shell Script   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
 ```
 
 <!--END_SECTION:waka-->
