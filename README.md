@@ -5,11 +5,11 @@ Here's how I've been tracking:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           12 hrs 12 mins  ████████████████████████░   96.63 %
-JSON             16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Prisma           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Bash             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Python             8 hrs 7 mins    █████████████████████▓░░░   87.09 %
+Docker             24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Shell Script       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Prisma             12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+YAML               7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->
