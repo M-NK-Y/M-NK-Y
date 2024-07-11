@@ -5,11 +5,11 @@ Here's how I've been tracking:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           6 hrs 15 mins   █████████████████████▓░░░   86.32 %
-Jupyter          40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-Prisma           16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Svelte           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Python           8 hrs 30 mins   ███████████████▓░░░░░░░░░   63.15 %
+JavaScript       1 hr 32 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
+CSS              1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+HTML             47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+Jupyter          40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 
 <!--END_SECTION:waka-->
