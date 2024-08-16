@@ -5,11 +5,11 @@ Here's how I've been tracking:
 <!--START_SECTION:waka-->
 
 ```txt
-Python            5 hrs 52 mins   ████████████████▓░░░░░░░░   66.89 %
-R                 49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-Liquid Template   39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-Liquid            38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-Prisma            31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+Python            4 hrs 37 mins   ████████████████▓░░░░░░░░   66.84 %
+R                 49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
+Liquid Template   39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
+Liquid            38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
+JSON              9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
