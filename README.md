@@ -5,9 +5,9 @@ Here's how I've been tracking:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       13 hrs 2 mins   ██████████████████████▓░░   90.40 %
-Prisma       1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python       8 hrs 51 mins   █████████████████████▓░░░   86.48 %
+Prisma       1 hr 22 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
